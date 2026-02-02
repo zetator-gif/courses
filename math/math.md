@@ -237,8 +237,12 @@ plt.show()
 
 <img width="669" height="399" alt="image" src="https://github.com/user-attachments/assets/f04c0a0f-96b6-402d-9316-90704169dd30" />
 
+## open ball
+open ball in a metric space is a set: 
 
-
+$$
+{\displaystyle \{y\in X\mid d(x,y)<r\}
+$$
 
 
 
