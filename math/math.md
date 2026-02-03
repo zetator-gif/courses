@@ -244,7 +244,9 @@ $$
 {\displaystyle \{y\in X\mid d(x,y)<r\}
 $$
 
+## power series 
 
+power series are utilized in solving(at least reasonably well approximating) linear differential equations 
 
 
 
