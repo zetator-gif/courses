@@ -1,6 +1,6 @@
 M1: [Carlos Polanco - Differential and Integral Calculus Theory and Cases](https://www.scribd.com/document/932044193/C-polanco-Differential-and-Integral-Calculus)
 M2: [a](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume1-OP.pdf)  <br>
-![Uploading image.png…]()
+<img width="600" height="652" alt="image" src="https://github.com/user-attachments/assets/969ab971-2824-4843-bb89-8df9a237d77b" />
 
 <br>
 s1. https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html  <br>
