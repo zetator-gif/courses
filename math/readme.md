@@ -1,4 +1,5 @@
 M1: [Carlos Polanco - Differential and Integral Calculus Theory and Cases](https://www.scribd.com/document/932044193/C-polanco-Differential-and-Integral-Calculus)
+M2: [Carlos Polanco - Differential and Integral Calculus Theory and Cases]([https://www.scribd.com/document/932044193/C-polanco-Differential-and-Integral-Calculus](https://ia601608.us.archive.org/22/items/elementarytreati00piaguoft/elementarytreati00piaguoft.pdf))
 M2: [a](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume1-OP.pdf)  <br>
 <img width="600" height="652" alt="image" src="https://github.com/user-attachments/assets/969ab971-2824-4843-bb89-8df9a237d77b" />
 
