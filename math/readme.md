@@ -4,9 +4,10 @@ M3: [https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Calculu
 <img width="600" height="652" alt="image" src="https://github.com/user-attachments/assets/969ab971-2824-4843-bb89-8df9a237d77b" />
 
 <br>
-s1. https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html  <br>
-s2. https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf  <br>
+l1. https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html  <br>
+l2. https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf  <br>
 <br>
+l3. https://www.physics.brocku.ca/PPLATO/h-flap/phys11_4.html  <br>
 p1. https://en.wikipedia.org/wiki/Logical_connective  <br>
 p2. https://math.stackexchange.com/questions/615925/who-came-up-with-the-varepsilon-delta-definitions-and-the-axioms-in-real-a  <br>
 p3. https://www.google.com/search?oq=20-dB+front-to-back+ratio&sourceid=chrome&ie=UTF-8&q=20-dB+front-to-back+ratio  <br>
