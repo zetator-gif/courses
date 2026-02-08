@@ -8,4 +8,6 @@ $$
 
  &nbsp; &nbsp;****(ans.1)**** &nbsp; &nbsp; $\frac {ds}{dt} = 1$
 
- 
+## differentiation of a general power
+
+ &nbsp; &nbsp;****(ans.1)**** &nbsp; &nbsp; $\frac {ds}{dt} = nt^{n-1}$
