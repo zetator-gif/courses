@@ -32,3 +32,10 @@
 `GIVENS`
 for [open intervals] any point inside is part of a neighborhood fully contained in the interval
 
+`scpript` `python`
+
+```python
+# pick a random integer between -10 and 10, excluding 0
+a = random.choice([i for i in range(-10, 11) if i != 0])
+```
+
