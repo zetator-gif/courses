@@ -11,3 +11,7 @@ $$
 ## differentiation of a general power
 
  &nbsp; &nbsp;****(ans.1)**** &nbsp; &nbsp; $\frac {ds}{dt} = nt^{n-1}$
+
+## differentiation of fractions reducible to simpler fractions
+ &nbsp; &nbsp; **(p.1)**  &nbsp; &nbsp;  to differentiate s = t <br>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • ****unit power**** _means_ power is 1* <br>
