@@ -6,8 +6,8 @@ https://www.amazon.nl/-/en/MELES-Company-ebook/dp/B089GYVTFC
 <br>
 
 <br>
-l1. https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html  <br>
-l2. https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf  <br>
+item1. https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html  <br>
+item2. https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf  <br>
 <br>
 l3. https://www.physics.brocku.ca/PPLATO/h-flap/phys11_4.html  <br>
 p1. https://en.wikipedia.org/wiki/Logical_connective  <br>
