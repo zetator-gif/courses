@@ -2,7 +2,9 @@ M1: [Carlos Polanco - Differential and Integral Calculus Theory and Cases](https
 M2: [https://ia601608.us.archive.org/22/items/elementarytreati00piaguoft/elementarytreati00piaguoft.pdf](https://ia601608.us.archive.org/22/items/elementarytreati00piaguoft/elementarytreati00piaguoft.pdf)  <br>
 M3: [https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume1-OP.pdf](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume1-OP.pdf)  <br>
 M4:
-https://www.amazon.nl/-/en/MELES-Company-ebook/dp/B089GYVTFC
+https://www.amazon.nl/-/en/MELES-Company-ebook/dp/B089GYVTFC  <br>
+M5:
+https://github.com/Rafiquzzaman420/Math-Books/blob/main/Calculus%20by%20Michael%20Spivak.pdf
 <br>
 
 item1. https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html  <br>
