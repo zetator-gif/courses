@@ -1,3 +1,3 @@
-up quark, down quark - elementary particles
+**[up quark]**, **[down quark]** - elementary particles
 reproduction of primordial events
 
