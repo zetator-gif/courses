@@ -5,22 +5,58 @@ reproduction of primordial events
 `theoretisch model`
 >  **[puntmassa]** is een object met een eindige massa wordt beschouwd als een **[oneindig]** klein punt zonder volume
   `vector calculus` → `gradient`
->sd
+> `good habit 1`
+>> equation as solution has a larger degree of validity  <br>
+>> [ ! ] only fill in numbers after having reached the final equation  <br>
+>> • more likely to make errors  <br>
+>> • much harder to detect errors afterwards  <br>
 >
->dsf
+>  `vectors`:  <br>
+>>  `position` `force` `moment` `velocity` `acceleration`  <br>
+>> [ ! ] only work with scalar values after having projected the vectors on a coordinate axis  <br>
 >
->sdf
+>[ ! ] even in 2-dimensional xy-plane [moment] and [angular velocity] vectors point along the [z-direction]
+>[ → ]   
 >
->sfd
->dsf
 >
->dsf
 >
->dsf
 >
->sdf
 >
->sdf
 >
->ds
+>
+>
+>
+>
+>
+>>
+>
+>
+>
+>
+>
+>
+>
+>
+>>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
 >
