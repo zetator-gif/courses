@@ -7,6 +7,8 @@ M5:
 https://github.com/Rafiquzzaman420/Math-Books/blob/main/Calculus%20by%20Michael%20Spivak.pdf
 <br>
 
+lec.1  https://www.youtube.com/watch?v=nFf_SJRwfaY&list=PL1C22D4DED943EF7B  (Herbert Gross - Multivariable Calculus)  <br>
+
 item1. https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html  <br>
 item2. https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf  <br>
 item3. https://www.physics.brocku.ca/PPLATO/h-flap/phys11_4.html  <br>
@@ -18,4 +20,3 @@ problem4.https://mfjenterprises.com/products/mfj-1852?srsltid=AfmBOoq8C-ZDqeLM2m
 problem5.https://www.qrz.com/db/AF8A  <br>
 problem6.  https://pims.math.ca/sites/default/files/adlerbook.pdf  <br>
 <br>
-lec.1  https://www.youtube.com/watch?v=nFf_SJRwfaY&list=PL1C22D4DED943EF7B  (Herbert Gross - Multivariable Calculus)  <br>
