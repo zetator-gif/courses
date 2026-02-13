@@ -4,7 +4,9 @@ https://private-user-images.githubusercontent.com/250961284/534658974-105ef296-1
 <br>
 Allan H. Frey - **MAE**-Microwave Auditory Effect((Frey Effect)<br>
  Kenneth Foster on MEDUSA - because of human biophysics, the device "would kill you well before you were bothered by the noise"<br>
- 
-
+ ## LoRa - <br>
+low cost, low power, unlicensed band(ISM), spread-spectrum modulation                          
+range 15km in rural areas (832km) record <br>
+l1. https://www.youtube.com/watch?v=YQ7aLHCTeeE
 
 
