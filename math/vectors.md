@@ -12,3 +12,13 @@ arrow : vector(line segment with arrowgead+
 length : scalar
 
 arithmetic uses collection of objects
+
+[figures] should not be legitimately used as proofs
+
+`rule 1001`
+>
+> a
+
+$$
+\vec{o}^t
+$$
