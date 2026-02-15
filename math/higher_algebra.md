@@ -23,3 +23,10 @@ $$
 it follows that the ratio $a : b$ is equal to the ratio $ma : mb$
 
 > **comparison (:)** and **fraction (\frac)** are not fully interchangeable  <br>
+
+4. <br>
+
+$$
+\frac{a}{b} \text{ and } \frac{x}{y} \text{ is the same comparison as } \frac{ay}{by} \text{ and } \frac{bx}{by} \text{ is the same comparison as } 
+ay \text{ and } bx
+$$
