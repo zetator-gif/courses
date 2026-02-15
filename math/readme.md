@@ -4,8 +4,10 @@ M3: [https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Calculu
 M4:
 https://www.amazon.nl/-/en/MELES-Company-ebook/dp/B089GYVTFC  <br>
 M5:
-https://github.com/Rafiquzzaman420/Math-Books/blob/main/Calculus%20by%20Michael%20Spivak.pdf
-<br>
+https://github.com/Rafiquzzaman420/Math-Books/blob/main/Calculus%20by%20Michael%20Spivak.pdf  <br>
+M6:  https://ia601502.us.archive.org/22/items/in.ernet.dli.2015.136019/2015.136019.Higher-Algebra.pdf <br>
+M7:  https://ia601502.us.archive.org/22/items/in.ernet.dli.2015.136019/2015.136019.Higher-Algebra.pdf  <br>
+M7:  <br>
 
 lec.1  https://www.youtube.com/watch?v=nFf_SJRwfaY&list=PL1C22D4DED943EF7B  (Herbert Gross - Multivariable Calculus)  <br>
 
