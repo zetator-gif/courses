@@ -3,8 +3,21 @@
 <KBD>**DEFINITIONS**</KBD>  <br>
 `surd`
 `commensurable` `incommensurable`
-`duplicate`  `triplicate`  `subduplicate`
+`duplicate`  `triplicate`  `subduplicate`<br>
+<br>
+`term of the ratio`  `antecedent`  `consequent`
 >  ..._"compounded by itself"_  <br>
 
 
 <KBD>**NOTE**</KBD> every ratio is an abstract quantity
+
+> numerator over denominator (fractions)  <br>
+> first term antecedent, second term consequent (ratios, logic)  <br>
+
+<KBD>**LAW**</KBD>  since by the law of fractions,
+
+$$
+\frac{a}{b} = \frac{ma}{mb}
+$$
+
+it follows that the ratio $a : b$ is equal to the ratio $ma : mb$
