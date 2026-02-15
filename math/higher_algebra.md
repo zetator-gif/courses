@@ -5,7 +5,7 @@
 `commensurable` `incommensurable`
 `duplicate`  `triplicate`  `subduplicate`<br>
 <br>
-`term of the ratio`  `antecedent`  `consequent`
+`term of the ratio`  `antecedent`  `consequent` `value of a ratio`
 >  ..._"compounded by itself"_  <br>
 
 
@@ -21,3 +21,5 @@ $$
 $$
 
 it follows that the ratio $a : b$ is equal to the ratio $ma : mb$
+
+> **comparison (:)** and **fraction (\frac)** are not fully interchangeable  <br>
