@@ -15,10 +15,22 @@ arithmetic uses collection of objects
 
 [figures] should not be legitimately used as proofs
 
-`rule 1001`
->
-> a
+`rules`
 
 $$
-\vec{o}^t
+\begin{align}
+(\vec{a} + \vec{b}) \text{ is a vector}\\
+\vec{a} + \vec{b} &= \vec{b} + \vec{a} \\
+(\vec{a} + \vec{b}) + \vec{c} &= \vec{a} + (\vec{b} + \vec{c})
+\end{align}
 $$
+
+`the zero vector`, $\vec{0}$
+
+$$
+\begin{align}
+\vec{A} + \vec{0} = \vec{A}\\
+\text{let} |\vec{0}| = b
+\end{align}
+$$
+>`NOTE`(arithmetics) - number zero, with respect to addition it does not change identity of any number
