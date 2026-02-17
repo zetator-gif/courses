@@ -1,9 +1,12 @@
 <KBD>**DEFINITIONS**</KBD>  <br>
-`modern vectors`
-> any quantity that depends on direction as well as **{magnitude}** and **[sense]**<br>
+<details>
+  <summary><KBD>modern vectors</KBD></summary>  <br>
+   any quantity that depends on direction as well as `magnitude` and `vectors`
+</details>
+
 
 `vector`  `signed numbers` 
-**scalar** - magnitude but no direction : number
+ - magnitude but no direction : number
 length can be picked to represent a number
 axis : degree of freedom
 
@@ -39,22 +42,6 @@ $$
 
 let $b$ denote the magnitude of $\vec{0}$
 
-<details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
 > [!CAUTION]
 > > **Continuation**
 > From this point is  on the physical paper sheet
