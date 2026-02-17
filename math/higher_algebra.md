@@ -29,10 +29,13 @@ $$
 ay \text{ and } bx
 $$
 
->
->$$
-> (ab + ax) - (ab + bx)
-> $$
->
+$$
+\begin{align}
+(ab + ax) - (ab + bx) 
+&= ab + ax - ab - bx \\
+&= ax - bx \\
+&= x(a - b)
+\end{align}
+$$
+
 > `distribution` of minus (multiplying each term inside second parentheses by $-1$)
->
