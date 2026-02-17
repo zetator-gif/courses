@@ -1,9 +1,7 @@
-**i**  <br>
-<br>
 <KBD>**DEFINITIONS**</KBD>  <br>
 `surd`
 `commensurable` `incommensurable`
-`duplicate`  `triplicate`  `subduplicate`<br>
+`duplicate ratio`  `triplicate ratio`  `subduplicate ratio`  <br>
 <br>
 `term of the ratio`  `antecedent`  `consequent` `value of a ratio`
 >  ..._"compounded by itself"_  <br>
@@ -30,3 +28,11 @@ $$
 \frac{a}{b} \text{ and } \frac{x}{y} \text{ is the same comparison as } \frac{ay}{by} \text{ and } \frac{bx}{by} \text{ is the same comparison as } 
 ay \text{ and } bx
 $$
+
+>
+>$$
+> (ab + ax) - (ab + bx)
+> $$
+>
+> `distribution` of minus (multiplying each term inside second parentheses by $-1$)
+>
