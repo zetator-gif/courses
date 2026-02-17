@@ -32,10 +32,16 @@ $$
 $$
 \begin{align}
 (ab + ax) - (ab + bx) 
-&= ab + ax - ab - bx \\
-&= ax - bx \\
-&= x(a - b)
+&= ab + ax - ab - bx
 \end{align}
 $$
 
 > `distribution` of minus (multiplying each term inside second parentheses by $-1$)
+
+$$
+\begin{align}
+if\frac{a}{b}>\frac{a+x}{b+x} \\
+if \frac{a}{b}<\frac{a+x}{b+x}
+\end{align}
+$$
+
