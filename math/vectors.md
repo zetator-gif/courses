@@ -34,3 +34,6 @@ $$
 \end{align}
 $$
 >`NOTE`(arithmetics) - number zero, with respect to addition it does not change identity of any number
+
+
+let $b$ denote the magnitude of $\vec{0}$
