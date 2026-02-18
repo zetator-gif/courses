@@ -29,7 +29,8 @@ $$
 \end{align}
 $$
 
-`the zero vector`, $\vec{0}$
+`the zero vector`, $\vec{0}$  <br>
+<KBD>**structural rule 1**</KBD>
 
 $$
 \begin{align}
@@ -43,9 +44,17 @@ $$
 let $b$ denote the magnitude of $\vec{0}$
 
 > [!CAUTION]
-> > **Continuation**
-> From this point is  on the physical paper sheet
-> Date: February 2026  
+> > **Continuation**  
+> From this point is a `FIG.` on the physical V  <br>
+> Date: February 2026  <br>
 > Folder: Math
+> >
+> > 
 
+the $\vec{b}$ originates on point P and terminates somewhere on a circle of possible endpoints  <br>
+if we want to obey <KBD>**structural rule 1**</KBD> then P = Q[@V]; meaning triangle degenerates into 1D line with magnitude P = Q | (P - Q) = $\vec{0}$
+
+\vec{A} + (\vec{A}) = \vec{0}
 Dread Mar I - Mantenerse en Pie
+
+if we want this structural rule to be true, we have no choice but to compute then like this: ...
