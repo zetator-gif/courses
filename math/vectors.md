@@ -58,3 +58,6 @@ if we want to obey <KBD>**structural rule 1**</KBD> then P = Q[@V]; meaning tria
 Dread Mar I - Mantenerse en Pie
 
 if we want this structural rule to be true, we have no choice but to compute then like this: ...
+
+$\vecr_s{s}$  <be>
+there exists some vector valued function dependent on parameter s
