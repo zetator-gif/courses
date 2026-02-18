@@ -59,5 +59,5 @@ Dread Mar I - Mantenerse en Pie
 
 if we want this structural rule to be true, we have no choice but to compute then like this: ...
 
-$\vecr_s{s}$  <be>
+$\vec{r_s(s)}$  <be>
 there exists some vector valued function dependent on parameter s
