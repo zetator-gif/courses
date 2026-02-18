@@ -44,4 +44,3 @@ if\frac{a}{b}>\frac{a+x}{b+x} \\
 if \frac{a}{b}<\frac{a+x}{b+x}
 \end{align}
 $$
-
