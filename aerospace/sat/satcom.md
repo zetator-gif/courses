@@ -33,3 +33,6 @@ $$
 </details>
 
 for `KU` is denoted 14/12 GHz
+
+geostationary satellites orbit in the earth's equatorial plane and their position is specified by their longitude
+7/27
