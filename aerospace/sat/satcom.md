@@ -23,4 +23,13 @@ $$
 > Folder: Math
 
 • the use of 23 h, 56 min as an approximation for the mean sidereal day will be used later in determining the height of the geostationary orbit
-`standard basis` is formed in $\mathbb {R} ^{2}$ Euclidean space by two unit vectors $e_x = (1,0), e_y = (0,1)$
+`standard basis` is formed in $\mathbb {R} ^{2}$ Euclidean space by two unit vectors $e_x = (1,0), e_y = (0,1)$  <br>
+<details>
+  <summary>
+ •for FSS in C band(where no DBS is allowed), the most widely used subrange is approximately 4 to 8 GHz
+  </summary>  <br>
+  higher frequency is almost always used for the uplink to the satelite  <br>
+  • common practice is to denote the C band by 6/4 GHz
+</details>
+
+for `KU` is denoted 14/12 GHz
