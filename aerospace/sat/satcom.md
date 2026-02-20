@@ -21,3 +21,6 @@ $$
 > From this point is a `FIG.` on the physical V  <br>
 > Date: February 2026  <br>
 > Folder: Math
+
+• the use of 23 h, 56 min as an approximation for the mean sidereal day will be used later in determining the height of the geostationary orbit
+`standard basis` is formed in $\mathbb {R} ^{2}$ Euclidean space by two unit vectors $e_x = (1,0), e_y = (0,1)$
