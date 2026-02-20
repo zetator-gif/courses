@@ -1,12 +1,12 @@
 <kbd>**DEFINITIONS**</kbd>  <br>
 <details>
   <summary>
-    <em>Greenwich sidereal time (GST)</em>
+    <kbd>Greenwich sidereal time (GST)</kbd>
   </summary>  <br>
 <span style="font-size: 0.8em;">
-  <em>also known as the Greenwich hour angle, or GHA</em>
+  <sub><em>⤷ also known as the Greenwich hour angle, or GHA</em></sub>
 </span>
-</details>>
+</details>
 
 
 
