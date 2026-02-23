@@ -35,5 +35,7 @@ NOTE: basic vector definitions does not use coordinate system. Only head to tail
 > From this point is a `FIG.` on the physical V  <br>
 > Date:  23 February 2026  <br>
 > Folder: Math
-> >
-> > 
+
+
+number vs. numeral
+name versus concept
