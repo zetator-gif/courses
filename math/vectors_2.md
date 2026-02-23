@@ -18,3 +18,22 @@ $\vec{A} = \sqrt{a^{2}_{1}}$
 square root `$\sqrt$` is a multivalued function, although zero has only one square root
 • each complex number greater than zero has two real square roots 
 
+n - dimensional space cannot be geometrically drawn
+## but the recipe is valid regardless of number of dimensions
+
+if $\vec{A}$ = $a_1\vec{i}$ + $a_2\vec{j}$  <br>
+then 
+
+$$
+\vec{|A|} = \sqrt{a^{2}_{1} + a^{2}_{j} + a^{2}_{k}}
+$$
+
+NOTE: basic vector definitions does not use coordinate system. Only head to tail
+
+> [!CAUTION]
+> > **polar vectors**  
+> From this point is a `FIG.` on the physical V  <br>
+> Date:  23 February 2026  <br>
+> Folder: Math
+> >
+> > 
