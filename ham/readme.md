@@ -5,3 +5,6 @@ p2. https://www.kf7p.com/KF7P/Tech_Resources_files/grounds%20p3.pdf  <br>
 p3. https://solvit.pt/powered-services/field-measures-drive-tests/  <br>
 p4. https://earlyradiohistory.us/1915ATT1.htm  <br>
 p5. https://hamsci.org/msqp#:~:text=A%20typical%20meteor%20scatter%20(MS,the%20major%20meteor%20shower%20events.  <br>
+
+https://websdr.pi1dft.ampr.org/#freq=84200000,mod=wfm,sql=-150  <br>
+https://testerdetest.nl/web-sdr-online/  <br>  
