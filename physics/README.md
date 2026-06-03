@@ -8,7 +8,8 @@ https://www.scribd.com/document/810324574/Walter-E-Thirring-Quantum-mathematical
  https://en.wikipedia.org/wiki/Divergence_theorem <br>
  https://galileo.phys.virginia.edu/classes/152.mf1i.spring02/DiscoveringGravity.htm  <br>
 https://www.uio.no/studier/emner/matnat/fys/FYS3500/v26/lecture-notes/fys3500-Introduction-course-V2026.pdf
-https://arxiv.org/pdf/1203.3991<br>
+https://arxiv.org/pdf/1203.3991
+https://math.stackexchange.com/questions/4543823/mathematical-introduction-to-the-standard-model-of-particle-physics<br>
 
 d1. https://arxiv.org/pdf/2111.08447 <br>
 d2. https://arxiv.org/pdf/0812.2755 <br>
