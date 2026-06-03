@@ -3,6 +3,7 @@ https://books.google.nl/books?id=0Pp-f0G9_9sC&q=61+fundamental+particles&pg=PA31
 <br>
 links
 <br>
+https://www.scribd.com/document/810324574/Walter-E-Thirring-Quantum-mathematical-physics-atoms-molecules-and-large-systems-Springer-2002
  https://www.canevalab.com/  <br>
  https://en.wikipedia.org/wiki/Divergence_theorem <br>
  https://galileo.phys.virginia.edu/classes/152.mf1i.spring02/DiscoveringGravity.htm  <br>
