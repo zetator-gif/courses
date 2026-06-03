@@ -3,6 +3,7 @@ P1. https://books.open.tudelft.nl/home/catalog/view/170/302/547  <br>
 l1. https://www.canevalab.com/  <br>
 l2. https://en.wikipedia.org/wiki/Divergence_theorem <br>
 l3. https://galileo.phys.virginia.edu/classes/152.mf1i.spring02/DiscoveringGravity.htm  <br>
+https://www.uio.no/studier/emner/matnat/fys/FYS3500/v26/lecture-notes/fys3500-Introduction-course-V2026.pdf <br>
 
 d1. https://arxiv.org/pdf/2111.08447 <br>
 d2. https://arxiv.org/pdf/0812.2755 <br>
