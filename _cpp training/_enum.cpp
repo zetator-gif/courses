@@ -10,6 +10,6 @@ int main() {
     cin >> input;
     if (input >= 0 && input <= 2) {
         z = static_cast<Name>(input);  // Cast int to enum
-    }
-    
+        }
+}
     return 0;
