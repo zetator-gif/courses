@@ -26,3 +26,6 @@ int main() {
   cout << x;
   return 0;
 }
+
+https://stackoverflow.com/questions/39534406/possible-to-have-multiple-while-cininput
+https://stackoverflow.com/questions/14146624/print-numbers-in-range-of-two-user-input-values-with-while-loop
