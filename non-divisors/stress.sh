@@ -5,3 +5,4 @@ for((i=1;;i++)); do
 //  diff <(./kd_ac < int) <(./kd_wa < int)
     diff <(./kd_ac < int) <(./kd_tle < int
 done
+
