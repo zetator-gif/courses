@@ -13,11 +13,31 @@ int bitSearch(vector<int>&arr, int target) {
         if(arr[mid] == target){
         return mid; 
         }
+        
+else if (arr[mid] < target){
+    left = mid + 1;
     }
-        
-      //  if
-        
-     //   else if ()
+else {
+    right = mid - 1;
+    } //   else if ()
     
     return -1;
+    cout << target;
+    }
+}
+
+//  test cases
+int main(){
+vector <int> arr = {5, 0, 9, 11};
+int target = 10;
+
+sort(arr.begin(), arr.end());
+
+int index = bitSearch(arr, target);
+
+if (index != -1) {
+    cout << index;
+    }
+    else {cout << "0";}
+    return 0;
 }
