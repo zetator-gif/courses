@@ -4,4 +4,5 @@
     https://github.com/manjunath5496/C-Plus-Plus-Programming-Books/blob/master/bk.jpg
     
     https://github.com/common-forks/ebook-1/blob/master/ISO_IEC_14882_2011_(C%2B%2B11).pdf
-    
+
+    SQL :: todo https://ci-ceit.edu.ck/wp-content/uploads/2021/01/sql-the-complete-reference-third-edition-sep-2009.pdf
