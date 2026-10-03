@@ -1,0 +1,1 @@
+temp<class T> bool operator!=(const T& x, const T& y)

@@ -1,12 +1,3 @@
-// copy
-    template<class InputIt, class OutputIt>
-    OutputIt copy(  InputIt first, InputIt last,
-                    OutputIt d_first    )   
-    {
-        for(; first  != last; (void)++first, (void) ++d_first)
-    }
-
-
 // [utility.swap]
 
     template<class T> void swap(T& a, T& b) noexcept;
