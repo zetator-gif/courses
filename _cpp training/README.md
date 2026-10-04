@@ -7,3 +7,5 @@
 
     SQL :: todo https://ci-ceit.edu.ck/wp-content/uploads/2021/01/sql-the-complete-reference-third-edition-sep-2009.pdf
 https://github.com/PacktPublishing/thics-Governance-for-Enterprises-Compliance-Risk-Responsibility/blob/main/Iso_iec%2042001%20%E2%80%93%20Ai%20Governance%20Implementation%20Guide.pdf
+https://dominikkowald.info/documents/2026selfcert_preprint.pdf
+https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/942489?$ctx=lang=EN&$scrollTo=toc_overview
