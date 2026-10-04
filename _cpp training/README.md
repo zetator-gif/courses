@@ -9,3 +9,5 @@
 https://github.com/PacktPublishing/thics-Governance-for-Enterprises-Compliance-Risk-Responsibility/blob/main/Iso_iec%2042001%20%E2%80%93%20Ai%20Governance%20Implementation%20Guide.pdf
 https://dominikkowald.info/documents/2026selfcert_preprint.pdf
 https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/942489?$ctx=lang=EN&$scrollTo=toc_overview
+
+https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3220.pdf
