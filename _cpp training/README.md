@@ -13,3 +13,5 @@ https://online.uni-graz.at/kfu_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/
 https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3220.pdf
 
 https://dominikkowald.info/
+
+https://isocpp.org/files/papers/N4860.pdf
