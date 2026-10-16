@@ -40,3 +40,7 @@ https://www.itu.int/en/journal/j-fet/Pages/default.aspx
 https://www.youtube.com/@itutelecommunication/videos
 
 https://rumble.com/v7gxt7s--massive-russian-drone-strikes-hit-western-ukraine-russias-starlink-analog-.html?e9s=rel_v3_rs%2Csrc_v1_rsr%2Csrc_v1_vyml
+>>>>>>> 85159f9e96bc82e0fd1aebea277f702bfba566b7
+
+
+delftsemethode cursus
