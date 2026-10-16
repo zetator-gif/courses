@@ -32,3 +32,9 @@ https://isocpp.org/files/papers/N4860.pdf
 https://artowen.su.domains/mc/Ch-intro.pdf
 
 https://www.dongascience.com/en/news/78614
+
+https://treaties.un.org/doc/treaties/1976/03/19760323%2006-17%20am/ch_iv_04.pdf
+
+https://www.itu.int/en/journal/j-fet/Pages/default.aspx
+
+https://www.youtube.com/@itutelecommunication/videos
