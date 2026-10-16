@@ -28,3 +28,5 @@ https://dominikkowald.info/
 
 https://isocpp.org/files/papers/N4860.pdf
 >>>>>>> 00332ab59f3a7d9138da50c5bee78d2855aa8222
+
+https://artowen.su.domains/mc/Ch-intro.pdf
