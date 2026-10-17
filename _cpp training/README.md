@@ -52,3 +52,7 @@ https://dealroom.co/news/161293-tsinghua-professors-stealth-llm-startup-naive-ai
 https://search.brave.com/search?q=israel%20leading%20the%20global%20bioconvergence%20revolution&tf=pd&spellcheck=0&source=alteredQuery
 
 https://finance.yahoo.com/news/investors-may-respond-oddity-tech-081633919.html
+
+https://github.com/NetherlandsForensicInstitute/hansken-extraction-plugin-template-python
+
+https://github.com/NetherlandsForensicInstitute/hansken-extraction-plugin-template-python
