@@ -44,3 +44,11 @@ https://rumble.com/v7gxt7s--massive-russian-drone-strikes-hit-western-ukraine-ru
 
 
 delftsemethode cursus
+
+https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26
+
+https://dealroom.co/news/161293-tsinghua-professors-stealth-llm-startup-naive-ai-hits-1-4b-valuation/
+
+https://search.brave.com/search?q=israel%20leading%20the%20global%20bioconvergence%20revolution&tf=pd&spellcheck=0&source=alteredQuery
+
+https://finance.yahoo.com/news/investors-may-respond-oddity-tech-081633919.html
