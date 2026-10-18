@@ -56,3 +56,6 @@ https://finance.yahoo.com/news/investors-may-respond-oddity-tech-081633919.html
 https://github.com/NetherlandsForensicInstitute/hansken-extraction-plugin-template-python
 
 https://github.com/NetherlandsForensicInstitute/hansken-extraction-plugin-template-python
+
+<img width="643" height="512" alt="{F17A421A-599E-4BD2-9872-832327F00197}" src="https://github.com/user-attachments/assets/47bdb734-04c5-4236-ac14-2568338ab6ee" />
+
