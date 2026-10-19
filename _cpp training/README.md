@@ -59,3 +59,4 @@ https://github.com/NetherlandsForensicInstitute/hansken-extraction-plugin-templa
 
 <img width="643" height="512" alt="{F17A421A-599E-4BD2-9872-832327F00197}" src="https://github.com/user-attachments/assets/47bdb734-04c5-4236-ac14-2568338ab6ee" />
 
+<img width="939" height="885" alt="image" src="https://github.com/user-attachments/assets/cf099da4-98c0-4a03-8ae4-ba671daea84b" />
