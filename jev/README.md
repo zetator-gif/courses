@@ -14,3 +14,5 @@ https://www.reddit.com/user/EEVAA_Bot/
 https://www.reddit.com/r/hermesagent/comments/1wn1gck/everyones_talking_about_jev_so_i_stayed_up_all/
 
 https://www.reddit.com/r/hermesagent/comments/1wkpl3q/integrated_the_jev_context_engine_into_hermes/
+
+ME:evaluating and managing AI vendors
