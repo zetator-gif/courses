@@ -26,3 +26,9 @@ https://labs.iximiuz.com/tutorials/containers-are-processes-d17b1df8
 https://diginomica.com/early-ai-adopters-stumble-across-horror-vendor-lock-here-we-go-again
 
 https://www.mindstudio.ai/blog/nvidia-nemotron-3-ultra-agent-model
+
+https://www.youtube.com/@Sshsecurity/videos
+
+https://info.ssh.com/privx-privileged-access-management-demo-request?_gl=1*k43wht*_up*MQ..*_gs*MQ..&gclid=EAIaIQobChMItvWN5JvnlwMVFLGDBx016AduEAAYASAAEgIKS_D_BwE&gbraid=0AAAAAoaJYn4l4AEC2rFJZeWMLg5hCPqFP
+
+https://www.youtube.com/watch?v=NJtbuwToVdU
