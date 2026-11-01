@@ -32,3 +32,5 @@ https://www.youtube.com/@Sshsecurity/videos
 https://info.ssh.com/privx-privileged-access-management-demo-request?_gl=1*k43wht*_up*MQ..*_gs*MQ..&gclid=EAIaIQobChMItvWN5JvnlwMVFLGDBx016AduEAAYASAAEgIKS_D_BwE&gbraid=0AAAAAoaJYn4l4AEC2rFJZeWMLg5hCPqFP
 
 https://www.youtube.com/watch?v=NJtbuwToVdU
+
+https://www.youtube.com/watch?v=IVtVF4S-vh0
