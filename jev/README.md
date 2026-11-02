@@ -38,3 +38,8 @@ https://www.youtube.com/watch?v=NJtbuwToVdU
 
 https://www.youtube.com/watch?v=IVtVF4S-vh0
 
+http://youtube.com/watch?v=5Kq64vOgE10
+
+https://470387.fs1.hubspotusercontent-na1.net/hubfs/470387/White%20papers/SSH_AI-Agents-NHIs-PAM_Whitepaper_2026.pdf?__hstc=105417436.2eeb4ad1d73981fdaf972d322e75b52e.1793631558789.1793631558789.1793631558789.1&__hssc=105417436.3.1793631558789&__hsfp=649b1c68dace2673e7a29ade78c23128
+
+[****](https://www.gitguardian.com/state-of-secrets-sprawl-report-2026)
