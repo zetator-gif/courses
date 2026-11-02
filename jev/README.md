@@ -1,5 +1,8 @@
 L:'
   twilio
+  blueprint for zero trust :
+    https://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.SP.800-207.pdf
+    
 
   giving ai agent sms number so it can register wherever i told them to
 
@@ -34,3 +37,4 @@ https://info.ssh.com/privx-privileged-access-management-demo-request?_gl=1*k43wh
 https://www.youtube.com/watch?v=NJtbuwToVdU
 
 https://www.youtube.com/watch?v=IVtVF4S-vh0
+
